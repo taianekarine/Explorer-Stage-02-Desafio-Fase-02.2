@@ -8,6 +8,8 @@ body {
 .page {
   width: 100vh;
   margin: 71px auto;
+  display: grid;
+  place-content: center;
 }
 
 .body {
